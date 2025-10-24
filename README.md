@@ -28,6 +28,8 @@ I’m always up for learning new things, collaborating on hardware projects,
 and geeking out over clever circuit designs 🔧⚡  
 If you’re into electronics too, we’ll definitely get along 😄
 
+💡 Projects I’ve worked on are listed below — feel free to check them out!
+
 ---
 
 📫 Get in Touch:  
@@ -37,4 +39,3 @@ If you’re into electronics too, we’ll definitely get along 😄
 
 ⭐ *“Good design is invisible — until something doesn’t work.”*
 
-؟
