@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm Farzin
 
-<!--
-**farzin12/farzin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 PCB Designer | Electronics Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I'm a passionate electronics and PCB designer who loves turning ideas into real circuits 💡.  
+From schematic design to PCB layout, debugging, and testing — I enjoy every step of the process!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ What I Do:
+- 🧠 Circuit Design & Simulation (Analog & Digital)
+- 💻 PCB Layout with Altium Designer, EasyEDA, and KiCad
+- ⚙️ Embedded Systems with C / C++ / Arduino / STM32
+- 🔌 Microcontrollers & IoT Projects
+- 🧩 Schematic Capture, Signal Integrity, Power Electronics
+- ⚡ Passionate about Electronics, Automation, and Hardware Design
+
+---
+
+### 🧰 Tools & Technologies
+Altium Designer • Proteus • Arduino
+C / C++ • Python • Git & GitHub
+
+---
+
+### 💬 About Me
+I’m always up for learning new things, collaborating on hardware projects,  
+and geeking out over clever circuit designs 🔧⚡  
+If you’re into electronics too, we’ll definitely get along 😄
+
+---
+
+📫 Get in Touch:  
+[GitHub](https://github.com/farzin12) • [Email me](mailto:farzinshayan647@yahoo.com)
+
+---
+
+⭐ *“Good design is invisible — until something doesn’t work.”*
+
+؟
